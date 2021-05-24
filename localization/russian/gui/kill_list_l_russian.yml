@@ -1,0 +1,5 @@
+﻿l_russian:
+ KILL_LIST:1 "Убийства: [KillListWindow.GetCharacter.GetUINamePossessive|U]"
+ OPEN_KILL_LIST_TOOLTIP:4 "#T Просмотр убийств\n#!Просмотреть всех персонажей, [Character.LocalPlayerString( 'убийца которых', 'про которых вам известно, что убийца' )] — [Character.GetShortUINameNoTooltip][Character.LocalPlayerString( ', если вам хочется предаться воспоминаниям...', '' )]"
+ DEATH_DATE:0 "Дата смерти"
+ DEATH_REASON:0 "Причина смерти"

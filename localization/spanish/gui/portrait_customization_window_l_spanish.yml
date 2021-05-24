@@ -1,0 +1,10 @@
+﻿l_spanish:
+ PCW_TITLE:0 "Peluquería"
+ PCW_APPLY:0 "Aplicar cambios"
+ #PCW_APPLY_TOOLTIP:1 "" delete this
+ PCW_DEFAULT_HAIR_COLOR:0 "Predeterminado"
+ PCW_HAIR_COLOR_LABEL:0 "Color de pelo"
+ 
+
+# === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
+ PCW_APPLY_TOOLTIP:0 "#I Pinchar para aplicar cambios y cerrar la ventana#!"

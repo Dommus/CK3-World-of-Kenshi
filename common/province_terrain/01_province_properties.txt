@@ -1,0 +1,108 @@
+﻿##################
+# TABLE OF CONTENT
+# ****************
+# NORMAL PROVINCES
+# SEA ZONES
+# MAJOR RIVERS
+# LAKES
+# IMPASSABLE TERRAIN
+# WASTELAND
+# IMPASSABLE SEA ZONES
+# UNUSED PROVINCES
+# ****************
+# Normal provinces arranged based on landed_titles
+# Ctrl+F to jump to appropriate sections
+# Seas & rivers should stay at 0.0 severity bias
+# Unused provs are provs not set in the game yet, so 0.0
+# Unused provs based on data in mapdata\default.map
+# Some provinces use override modifiers, which makes them use the override values instead of default WINTER_EFFECTS_FACTOR_XXX as set in 00_defines.txt
+# These are:
+# mild_winter_factor_override
+# normal_winter_factor_override
+# harsh_winter_factor_override
+##################
+
+##################
+# NORMAL PROVINCES
+##################
+
+##### e_holy_nation
+#### k_okrans_pride
+### d_bad_teeth
+## c_bad_teeth
+# b_badteeth
+1 = {
+	winter_severity_bias = 0.45
+}
+
+## c_bad_teeth_mines
+# b_badteethmines
+2 = {
+	winter_severity_bias = 0.45
+}
+
+## c_bad_teeth_farms
+# b_badteethfarms
+3 = {
+	winter_severity_bias = 0.45
+}
+
+
+### d_blister_hill
+## c_okran_valley
+# b_okranvalley
+4 = {
+	winter_severity_bias = 0.45
+}
+
+## c_okran_farms
+# b_okranfarms
+5 = {
+	winter_severity_bias = 0.45
+}
+
+## c_blister_hill
+# b_blisterhill
+6 = {
+	winter_severity_bias = 0.45
+}
+
+
+
+##################
+# SEA ZONES
+##################
+
+7 = {
+	winter_severity_bias = 0.00
+}
+
+##################
+# MAJOR RIVERS
+##################
+
+
+##################
+# LAKES
+##################
+
+
+##################
+# IMPASSABLE TERRAIN
+##################
+
+
+##################
+# WASTELAND
+##################
+
+
+##################
+# IMPASSABLE SEA ZONES
+##################
+
+
+##################
+# UNUSED PROVINCES
+##################
+

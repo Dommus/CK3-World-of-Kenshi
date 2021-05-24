@@ -1,0 +1,17 @@
+﻿l_spanish:
+ claim_throne_interaction:0 "Reclamar trono #weak (conjura)#!"
+ claim_throne_interaction_message:0 "Trono reclamado"
+
+ demand_payment_interaction:0 "Exigir pago"
+ demand_payment_interaction_desc:0 "Obligar a [recipient.GetShortUINameNoTooltip] a pagar oro por un [hook|lE] que tienes"
+ demand_payment_interaction_message:0 "Compromisos pagados"
+ RECIPIENT_HAS_TOO_LITTLE_GOLD:0 "[CHARACTER.GetName] no tiene suficiente oro"
+ demand_payment_too_little_gold_tt:0 "#N [recipient.GetFirstNameNoTooltip] no tiene bastante oro#!\nRecibiré menos de lo esperado #F ([SCOPE.ScriptValue('demand_payment_current_gold_value')|0][gold_i]/[SCOPE.ScriptValue('demand_payment_gold_to_pay')|0][gold_i])#!"
+
+ buy_claim_interaction:0 "Comprar derechos"
+ buy_claim_interaction_desc:0 "Pagas [piety|lE] para ganar un [claim|lE] sobre uno de los títulos válidos de [recipient.GetShortUINameNoTooltip] #weak ([buy_claim|E])#!"
+ buy_claim_interaction.message:0 "¡[target.GetName] reclamado!"
+ BUY_CLAIM_ALREADY_HAS_A_CLAIM:1 "Ya tienes un [claim|lE] sobre este [title|lE]"
+ BUY_CLAIM_ALREADY_KING_OR_EMPEROR:1 "No puedes comprar un [claim|lE] sobre un [kingdom|lE] si ya eres [king|lE] o [emperor|lE]"
+ BUY_CLAIM_ALREADY_EMPEROR:1 "No puedes comprar un [claim|lE] sobre un [kingdom|lE] si ya eres [emperor|lE]"
+ BUY_CLAIM_RELIGIOUS_TITLE:0 "No puedes comprar un [claim|lE] sobre un título religioso"

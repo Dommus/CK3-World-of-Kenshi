@@ -1,0 +1,8 @@
+﻿l_spanish:
+ KILL_LIST:1 "Muertes de [KillListWindow.GetCharacter.GetUIName|U]"
+ OPEN_KILL_LIST_TOOLTIP:4 "#T Ver muertes\n#!Ver todos los personajes que [Character.GetShortUINameNoTooltip] [Character.LocalPlayerString( 'has', 'ha' )] matado, [Character.LocalPlayerString( 'si quieres recordarlos…', 'que tú conozcas…' )]"
+ DEATH_DATE:0 "Fecha de muerte"
+ DEATH_REASON:0 "Motivo de la muerte"
+
+# === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
+ KILL_LIST_LABEL:0 "Muertes de [KillListWindow.GetCharacter.GetUIName|U]"
